@@ -2,7 +2,7 @@
 /*Plugin Name: Quote WordPress Book Quote Plugin
 Description: Quote Plugin For WordPress: Learn By Coding
 Version: 1.0
-Author: Scott Hughes
+Author: Scott Hughes - book that details instructions on how to make WordPress plugins
 */
 
 function wpbook_quote() {
